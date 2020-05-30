@@ -1,1 +1,1 @@
-Add all modules to this folder
+Add all modules to this folder. Create new folder for each module.
